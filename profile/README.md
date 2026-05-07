@@ -30,6 +30,7 @@ A gente é a turma **1TDSPG** da FIAP.
 | Exercícios | Solicitações de Pull da sala |
 | Atividades desenvolvidas durante as aulas | Dúvidas, angústias e proporções... |
 
+
 <br>
 
 # 🌐 Tecnologias
@@ -136,6 +137,6 @@ Se o código parar de funcionar:
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:ff0080,100:0a0a0a&text=THE%20FUTURE%20STARTS%20HERE&fontColor=ffffff&fontSize=42"/>
-<p>tomara</p>
+<p>Tomara</p>
 
 </div>
