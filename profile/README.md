@@ -76,7 +76,6 @@ A gente é a turma **1TDSPG** da FIAP.
 # 📦 Repositórios da turma
 
 <div align="center">
-
 | 📁 Repositório | 📅 Última atualização | 👨‍💻 Aula |
 |:---|:---:|:---:|
 | `front-aula1-1sem` | 27/04/2026 | @media-queries / FlexBOX / GridLayout / Javascript|
