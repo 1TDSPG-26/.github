@@ -2,7 +2,8 @@
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:ff0080,100:0a0a0a&text=1TDSPG&fontColor=ffffff&fontSize=75&animation=fadeIn&fontAlignY=38&desc=FIAP%20•%20Front-End%20•%20ADS&descAlignY=58"/>
-<img width="100%" src="https://site.com/animacao.gif" alt="GIF">
+<img width="100%" src="[https://site.com/animacao.gif](https://br.pinterest.com/elieteepc/chuva/)" alt="GIF">
+
 <br>
 
 <img src="https://img.shields.io/badge/FIAP-1TDSPG-ff0080?style=for-the-badge&labelColor=0d0d0d"/>
