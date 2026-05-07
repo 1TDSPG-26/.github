@@ -69,7 +69,7 @@ A gente é a turma **1TDSPG** da FIAP.
 | `front-aula1-1sem` | 27/04/2026 | @media-queries / FlexBOX / GridLayout / Javascript|
 | `front-aula2-1sem` | 30/04/2026 | Acessibilidade |
 | `front-aula3-1sem` | 04/05/2026 | Introdução ao JS |
-| `front-aula4-1sem` | 07/05/2026 | Formulários |
+| `front-aula4-1sem` | 07/05/2026 | Formularios |
 
 </div>
 
