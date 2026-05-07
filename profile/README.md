@@ -17,7 +17,7 @@
 
 <div align="center">
 
-### aqui a gente aprende front-end, arruma bug e às vezes o código até funciona.
+### Aqui a gente aprende front-end, arruma bug e às vezes o código até funciona, vai depender do ChatGPT...
 
 </div>
 
@@ -28,11 +28,10 @@
 A gente é a turma **1TDSPG** da FIAP.
 
 Aqui ficam os:
-- projetos
-- exercícios
-- atividades desenvolvidas durante as aulas
+- Projetos                                                   - Link da Aula de Reforço:   https://linktr.ee/rikkAlma
+- Exercícios                                                 - Solicitações de Pull da sala
+- Atividades desenvolvidas durante as aulas                  - Dúvidas, angustias e proporções... 
 
-Tudo organizado pra acompanhar a evolução da turma e centralizar os códigos de cada matéria.
 
 <br>
 
