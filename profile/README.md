@@ -55,9 +55,7 @@ A gente é a turma **1TDSPG** da FIAP.
 <br>
 
 <div align="center">
-  
 ### nova apostila subiu?  
-### agora existem mais 120 slides para ler
 </div>
 
 ---
@@ -103,7 +101,7 @@ code .
 
 ---
 
-# real footage of 1TDSPG
+# Real footage of 1TDSPG
 <div align="center">
 
 <img width="420" src="https://media1.tenor.com/m/QmVTfQw3pjYAAAAd/coding-scaler.gif">
@@ -113,7 +111,7 @@ code .
 
 <div align="center">
 
-### tentando entender por que o flexbox simplesmente decidiu parar de funcionar.
+### Tentando entender por que o flexbox simplesmente decidiu parar de funcionar.
 
 </div>
 
@@ -124,13 +122,14 @@ code .
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" /> </picture>
 
 # ⚡ Aviso importante
-se o código parar de funcionar:
+Se o código parar de funcionar:
 
-- atualiza a página
-- abre o console
-- pesquisa no w3shools
-- culpa o JavaScript
-- repete o processo
+- Atualiza a página
+- Abre o console
+- Pesquisa no w3shools
+- Culpa o JavaScript
+- Repete o processo
+- Dê um churros ao Alexandre
 
 ---
 
