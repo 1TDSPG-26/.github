@@ -35,6 +35,7 @@ Aqui ficam os:
 Tudo organizado pra acompanhar a evolução da turma e centralizar os códigos de cada matéria.
 
 <br>
+
 ---
 
 # 🌐 Tecnologias
@@ -60,6 +61,7 @@ Tudo organizado pra acompanhar a evolução da turma e centralizar os códigos d
 <br>
 
 <div align="center">
+  
 ### nova apostila subiu?  
 ### agora existem mais 120 slides para ler
 </div>
