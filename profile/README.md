@@ -12,6 +12,7 @@
 <div align="center">
 
 [![Discord](https://img.shields.io/badge/DISCORD-0A66C2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/hqZqj2wB4v)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/school/fiap/posts/?feedView=all)
 
 </div>
 
