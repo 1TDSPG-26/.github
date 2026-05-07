@@ -1,7 +1,7 @@
-<!-- BANNER -->
 <div align="center">
-  <img src="https://github.com/1TDSPG-26/.github/blob/main/banner.jpg?raw=true"/>
-</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:ff0080,100:0a0a0a&text=1TDSPG&fontColor=ffffff&fontSize=75&animation=fadeIn&fontAlignY=38&desc=FIAP%20•%20Front-End%20•%20ADS&descAlignY=58"/>
+<div/>
 
 <!-- TITLE -->
 <div align="center">
