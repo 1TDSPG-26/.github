@@ -9,9 +9,7 @@
 <!-- CONTACT -->
 <div align="center">
 
-[![Discord](https://discord.gg/hqZqj2wB4v)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-1a1a1a?style=flat-square&logo=vercel&logoColor=c9a84c)](https://persona-rho-nine.vercel.app)
-
+[![Discord](https://discord.gg/hqZqj2wB4v)](https://linkedin.com/in/julia-am%C3%A2ncio)
 
 <br/>
 
