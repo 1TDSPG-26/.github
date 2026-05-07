@@ -8,12 +8,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=26&pause=2000&color=C9A84C&center=true&vCenter=true&width=600&lines=Special+Organization+1TDSPG-26;For+Students+Fiap+of+ADS;Teacher+Alexandre+Jesus." alt="Typing SVG"/>
 </div>
 
-<br/>
-
-
-
-<br>
-
 <img src="https://img.shields.io/badge/FIAP-1TDSPG-ff0080?style=for-the-badge&labelColor=0d0d0d"/>
 
 <img src="https://img.shields.io/badge/Front--End-In%20Progress-ff0080?style=for-the-badge&labelColor=0d0d0d"/>
@@ -30,7 +24,7 @@
 
 </div>
 
-# 💻 Sobre
+<div> # 💻 Sobre
 
 A gente é a turma **1TDSPG** da FIAP.
 
@@ -38,10 +32,11 @@ A gente é a turma **1TDSPG** da FIAP.
 |---|---|
 | Projetos | Link da Aula de Reforço: https://linktr.ee/rikkAlma |
 | Exercícios | Solicitações de Pull da sala |
-| Atividades desenvolvidas durante as aulas | Dúvidas, angústias e proporções... |
+| Atividades desenvolvidas durante as aulas | Dúvidas, angústias e proporções... | 
+
+</div>
 
 
-<br>
 
 # 🌐 Tecnologias
 
