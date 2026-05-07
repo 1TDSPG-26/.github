@@ -9,8 +9,6 @@
 <!-- CONTACT -->
 <div align="center">
 
-[![Discord](https://discord.gg/hqZqj2wB4v)](https://linkedin.com/in/julia-am%C3%A2ncio)
-
 <br/>
 
 </div>
