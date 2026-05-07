@@ -8,6 +8,14 @@
   <img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=26&pause=2000&color=C9A84C&center=true&vCenter=true&width=600&lines=Special+Organization+1TDSPG-26;For+Students+Fiap+of+ADS;Teacher+Alexandre+Jesus." alt="Typing SVG"/>
 </div>
 
+<!-- CONTACT -->
+<div align="center">
+
+[![Discord](https://img.shields.io/badge/DISCORD-0A66C2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/hqZqj2wB4v)
+
+</div>
+
+
 <img src="https://img.shields.io/badge/FIAP-1TDSPG-ff0080?style=for-the-badge&labelColor=0d0d0d"/>
 
 <img src="https://img.shields.io/badge/Front--End-In%20Progress-ff0080?style=for-the-badge&labelColor=0d0d0d"/>
