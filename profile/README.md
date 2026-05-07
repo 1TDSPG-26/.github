@@ -1,6 +1,6 @@
 <!-- BANNER -->
 <div align="center">
-  <img src="banner.jpg"/>
+  <img src="https://github.com/1TDSPG-26/.github/blob/main/banner.jpg?raw=true"/>
 </div>
 
 <!-- TITLE -->
