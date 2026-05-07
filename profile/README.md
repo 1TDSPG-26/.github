@@ -32,7 +32,6 @@ A gente é a turma **1TDSPG** da FIAP.
 | Atividades desenvolvidas durante as aulas | Dúvidas, angústias e proporções... |
 
 <br>
----
 
 # 🌐 Tecnologias
 
