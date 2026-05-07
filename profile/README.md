@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:ff0080,100:0a0a0a&text=1TDSPG Melhor Sala&fontColor=ffffff&fontSize=75&animation=fadeIn&fontAlignY=38&desc=FIAP%20•%20Front-End%20•%20ADS&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:ff0080,100:0a0a0a&text=1TDSPG&fontColor=ffffff&fontSize=75&animation=fadeIn&fontAlignY=38&desc=FIAP%20•%20Front-End%20•%20ADS&descAlignY=58"/>
 <div/>
 
 <!-- TITLE -->
