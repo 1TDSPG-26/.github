@@ -35,13 +35,6 @@ Aqui ficam os:
 Tudo organizado pra acompanhar a evolução da turma e centralizar os códigos de cada matéria.
 
 <br>
-
-> “vou só mexer rapidinho no CSS”
->
-> 3 horas depois:
->
-> site completamente destruído.
-
 ---
 
 # 🌐 Tecnologias
@@ -58,7 +51,7 @@ Tudo organizado pra acompanhar a evolução da turma e centralizar os códigos d
 
 <div align="center">
 
-<a href="COLOQUE_O_LINK_DAS_APOSTILAS">
+<a href="https://on.fiap.com.br/local/apostilas/">
 <img src="https://img.shields.io/badge/APOSTILAS-ff0080?style=for-the-badge&logo=gitbook&logoColor=white"/>
 </a>
 
@@ -67,10 +60,8 @@ Tudo organizado pra acompanhar a evolução da turma e centralizar os códigos d
 <br>
 
 <div align="center">
-
 ### nova apostila subiu?  
 ### agora existem mais 120 slides para ler
-
 </div>
 
 ---
