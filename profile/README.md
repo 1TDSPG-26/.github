@@ -3,6 +3,15 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:ff0080,100:0a0a0a&text=1TDSPG&fontColor=ffffff&fontSize=75&animation=fadeIn&fontAlignY=38&desc=FIAP%20•%20Front-End%20•%20ADS&descAlignY=58"/>
 
+<!-- TITLE -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=26&pause=2000&color=C9A84C&center=true&vCenter=true&width=600&lines=Special+Organization+1TDSPG-26;For+Students+Fiap;Porfessor+Alexandre.;Seek+Paleblood+to+transcend+the+Hunt." alt="Typing SVG"/>
+</div>
+
+<br/>
+
+
+
 <br>
 
 <img src="https://img.shields.io/badge/FIAP-1TDSPG-ff0080?style=for-the-badge&labelColor=0d0d0d"/>
