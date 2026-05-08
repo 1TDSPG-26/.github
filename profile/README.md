@@ -33,16 +33,11 @@
 
 </div>
 
- # 💻 Sobre
-
-A gente é a turma **1TDSPG** da FIAP.
-
 | Conteúdo | Extras |
-|---|---|
+| :--- | :--- |
 | Projetos | Link da Aula de Reforço: https://linktr.ee/rikkAlma |
 | Exercícios | Solicitações de Pull da sala |
-| Atividades desenvolvidas durante as aulas | Dúvidas, angústias e proporções... | 
-
+| Atividades desenvolvidas durante as aulas | Dúvidas, angústias e proporções... |
 
 # 🌐 Tecnologias
 
