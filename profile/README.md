@@ -78,6 +78,7 @@
 | `front-aula2-1sem` | 30/04/2026 | Acessibilidade |
 | `front-aula3-1sem` | 04/05/2026 | Introdução ao JS |
 | `front-aula4-1sem` | 07/05/2026 | Formularios |
+| `front-aula5-1sem` | 11/05/2026 | Elementos JS |
 
 </div>
 
