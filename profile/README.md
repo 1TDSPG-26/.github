@@ -79,7 +79,7 @@
 | `front-aula3-1sem` | 04/05/2026 | Introdução ao JS |
 | `front-aula4-1sem` | 07/05/2026 | Formularios |
 | `front-aula5-1sem` | 11/05/2026 | Elementos JS |
-| `front-aula6-1sem` | 11/05/2026 | Janela Modal |
+| `front-aula6-1sem` | 14/05/2026 | Janela Modal |
 
 </div>
 
