@@ -80,6 +80,7 @@
 | `front-aula4-1sem` | 07/05/2026 | Formularios |
 | `front-aula5-1sem` | 11/05/2026 | Elementos JS |
 | `front-aula6-1sem` | 14/05/2026 | Janela Modal |
+| `front-aula7-1sem` | 18/05/2026 | Manipulação de classes com JS |
 
 </div>
 
